@@ -1,0 +1,36 @@
+_repo: A-manual-on-the-origin-and-development-of-Washington_69827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caemmerer, H. Paul (Hans Paul)
+    alias: Caemmerer, Hans Paul
+    birthdate: 1884
+    deathdate: 1962
+    gutenberg_agent_id: '55441'
+    url: http://www.gutenberg.org/2009/agents/55441
+description: 'Revision of: Washington, the national capital.'
+gutenberg_issued: '2023-01-18'
+identifiers:
+  gutenberg: '69827'
+  lccn: '39029244'
+language: en
+pgterms:marc904: https://archive.org/details/manualonoriginde00caemrich/page/n7/mode/2up
+pgterms:marc905: 20201207081337caemmerer
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Tim Lindell, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: 'United States: U.S. Government Printing Office,1939.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Senate document (United States. Congress. Senate); 75th Congress, no.
+  178.
+subjects:
+- !lcsh 'Washington (D.C.) -- History'
+- !lcsh 'Washington (D.C.) -- Description and travel'
+- !lcc 'F106'
+- GITenberg
+title: A manual on the origin and development of Washington
+url: http://www.gutenberg.org/ebooks/69827
